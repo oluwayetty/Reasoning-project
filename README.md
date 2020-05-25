@@ -8,7 +8,7 @@ The paper has proposed novel techniques for task allocation and planning in mult
 ![Alt Text](https://github.com/oluwayetty/Reasoning-project/blob/master/stapu.gif)
 
 
-Presentation of the paper **Simultaneous Task Allocation and Planning Under Uncertainty** by:
+Presentation done by:
 * Abdolhadi Rezaei
 * Maryam Bandali
 * Oluwatoyin Yetunde Sanni
